@@ -2,5 +2,5 @@
 
 public class FigureLibruary : MonoBehaviour
 {
-	public GameObject[] Objects;
+	public GameObject[] Objects; //содержит в себе префабы блоков из которых строится уровень
 }

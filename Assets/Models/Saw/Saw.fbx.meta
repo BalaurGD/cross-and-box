@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 8ccd6f6c10ae3c74ab3f77c95db98f83
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -2234279409591925936
+    second: Blade.003|Box_ArmatureAction.001
+  - first:
+      74: -7126925815963937199
+    second: Blade.003|Box_ArmatureAction.003
+  - first:
+      74: 8095557426410063558
+    second: Blade.003|Conveyor.001Action
+  - first:
+      74: 5927606942476085601
+    second: Blade.003|ConveyorAction
+  - first:
+      74: -7724789454741334467
+    second: Blade.003|ConveyorAction.001
+  - first:
+      74: 3014060448914793672
+    second: Blade.003|Cube.001Action
+  - first:
+      74: 1105201820356760392
+    second: Blade.003|Cube.001Action.001
+  - first:
+      74: 517568138518772358
+    second: Blade.003|Cube.001Action.002
+  - first:
+      74: -1926501735889090004
+    second: Blade.003|Cube.001Action.003
+  - first:
+      74: -8984237602358283732
+    second: Blade.003|Cube.001Action.004
+  - first:
+      74: 2563027683225387650
+    second: Blade.003|Cube.014Action
+  - first:
+      74: 12718234558819044
+    second: Blade.003|CubeAction
+  - first:
+      74: 7208170777919301283
+    second: Blade.003|Jump_side
+  - first:
+      74: 8470704177438124047
+    second: Blade.003|PlaneAction
+  - first:
+      74: 1857481033022771647
+    second: Blade.003|Saw.001
+  - first:
+      74: 7770880610466639418
+    second: Blade.003|Saw.006Action
+  - first:
+      74: 1915212558309798497
+    second: Blade.003|Saw.006Action.002
+  - first:
+      74: -3708302633590927589
+    second: Blade.003|SawAction
+  - first:
+      74: -2756590582848186938
+    second: Blade.003|ShredderAction
+  - first:
+      74: 4180877031836848834
+    second: Saw.004|Box_ArmatureAction.001
+  - first:
+      74: -1178712608767179268
+    second: Saw.004|Box_ArmatureAction.003
+  - first:
+      74: -5945490593830721107
+    second: Saw.004|Conveyor.001Action
+  - first:
+      74: -3301724642052876757
+    second: Saw.004|ConveyorAction
+  - first:
+      74: 5133356265312044189
+    second: Saw.004|ConveyorAction.001
+  - first:
+      74: -2503400894167617275
+    second: Saw.004|Cube.001Action
+  - first:
+      74: -8865998386168183844
+    second: Saw.004|Cube.001Action.001
+  - first:
+      74: -3550261999406662842
+    second: Saw.004|Cube.001Action.002
+  - first:
+      74: 7582901460304765378
+    second: Saw.004|Cube.001Action.003
+  - first:
+      74: 4033450379886504609
+    second: Saw.004|Cube.001Action.004
+  - first:
+      74: -6256043420492986811
+    second: Saw.004|Cube.014Action
+  - first:
+      74: -8228829363100176426
+    second: Saw.004|CubeAction
+  - first:
+      74: -6784723749211880546
+    second: Saw.004|Jump_side
+  - first:
+      74: 762668780412540207
+    second: Saw.004|PlaneAction
+  - first:
+      74: -3566648888887891376
+    second: Saw.004|Saw.001
+  - first:
+      74: 6959026911890272744
+    second: Saw.004|Saw.006Action
+  - first:
+      74: -4157904685762221040
+    second: Saw.004|Saw.006Action.002
+  - first:
+      74: 3510348495472035437
+    second: Saw.004|SawAction
+  - first:
+      74: -8732256778176797926
+    second: Saw.004|ShredderAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

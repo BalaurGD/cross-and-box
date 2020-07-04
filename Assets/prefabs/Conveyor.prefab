@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1139261355532260052}
   - component: {fileID: 4970270862091282568}
   - component: {fileID: -1943171918696520994}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Conveyor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50,9 +50,16 @@ MonoBehaviour:
     type: 3}
   EndingPart: {fileID: 4073069318014062733, guid: f5ffbed6b15b0aa48a9b52b7c91c456f,
     type: 3}
-  _layer:
+  DirectionOfConveyor: 0
+  Layer:
     serializedVersion: 2
     m_Bits: 512
+  SideGoingConveyor:
+    serializedVersion: 2
+    m_Bits: 1024
+  ForwardGoingConveyor:
+    serializedVersion: 2
+    m_Bits: 2048
 --- !u!65 &-1943171918696520994
 BoxCollider:
   m_ObjectHideFlags: 0

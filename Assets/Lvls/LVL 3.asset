@@ -16,36 +16,60 @@ MonoBehaviour:
   - XCordinat: 0
     ZCordinat: 0
     ObjectName: 0
+    ObjectDirection: 0
   - XCordinat: 0
     ZCordinat: 1
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 0
     ZCordinat: 2
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 0
     ZCordinat: 3
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 0
     ZCordinat: 4
     ObjectName: 3
+    ObjectDirection: 0
   - XCordinat: 0
     ZCordinat: 5
     ObjectName: 1
+    ObjectDirection: 0
   - XCordinat: 1
     ZCordinat: 1
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 1
     ZCordinat: 2
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 1
     ZCordinat: 3
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 1
     ZCordinat: 4
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 2
     ZCordinat: 1
     ObjectName: 2
+    ObjectDirection: 0
   - XCordinat: 2
     ZCordinat: 2
     ObjectName: 2
+    ObjectDirection: 0
+  - XCordinat: 1
+    ZCordinat: 0
+    ObjectName: 2
+    ObjectDirection: 3
+  - XCordinat: 2
+    ZCordinat: 0
+    ObjectName: 2
+    ObjectDirection: 3
+  - XCordinat: 3
+    ZCordinat: 0
+    ObjectName: 2
+    ObjectDirection: 3
